@@ -34,8 +34,7 @@ Document your design decisions and how each principle/tool contributed to the fi
 
 ## Output:
 <img width="716" height="648" alt="Experiment-2" src="https://github.com/user-attachments/assets/b49bf747-f336-4848-a9b0-e0a639d71817" />
-
-[Screenshot 2025-09-02 001956 (1).pdf](https://github.com/user-attachments/files/22084256/Screenshot.2025-09-02.001956.1.pdf)
+[Experiment-2.pdf](https://github.com/user-attachments/files/22084262/Experiment-2.pdf)
 
 ## Result:
 Successfully designed responsive mobile and web layouts for an existing case study using key design principles. Applied Gestalt theory to improve visual structure, integrated standard UI components and patterns, and developed user interactions focused on usability. Created a custom brand logo using Canva, maintaining visual consistency across layouts. This process enhanced my skills in layout planning, responsive design, branding, and user-centered thinking.
