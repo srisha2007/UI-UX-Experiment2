@@ -34,6 +34,7 @@ Document your design decisions and how each principle/tool contributed to the fi
 
 ## Output:
 <img width="716" height="648" alt="Experiment-2" src="https://github.com/user-attachments/assets/b49bf747-f336-4848-a9b0-e0a639d71817" />
+
 [Experiment-2.pdf](https://github.com/user-attachments/files/22084262/Experiment-2.pdf)
 
 ## Result:
