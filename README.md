@@ -34,6 +34,7 @@ Document your design decisions and how each principle/tool contributed to the fi
 
 ## Output:
 [Screenshot 2025-09-02 001956 (1).pdf](https://github.com/user-attachments/files/22084247/Screenshot.2025-09-02.001956.1.pdf)
+
 <img width="716" height="648" alt="Screenshot 2025-09-02 001956" src="https://github.com/user-attachments/assets/6674034c-ca30-4154-ade0-3184fc615d10" />
 
 ## Result:
